@@ -25,7 +25,7 @@ pip install matplotlib
 pip install seaborn**
 
 2. Clone the repository.
-3. Run the `main.py` file.
+3. Run the `main.ipynb` file.
 
 ## To contribute to the project
 
