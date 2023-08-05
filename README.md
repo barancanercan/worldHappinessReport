@@ -42,4 +42,4 @@ The project is licensed under the MIT License.
 
 This project is prepared for Data Science Projects by [PatikaDev](https://www.patika.dev/).
 
-![PatikAkademi Logo](https://scontent.fist6-1.fna.fbcdn.net/v/t39.30808-6/331527053_1152024508810297_7303235160329959654_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tZh60vc6yz0AX81nrfa&_nc_ht=scontent.fist6-1.fna&oh=00_AfD-xESorGmVOL2GyflGwwV5GVeXSEiMUic3Ysd2yjR6yw&oe=64CD096C)
+![PatikAkademi Logo](https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png)
